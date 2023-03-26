@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  /* outline: 3px solid red; */
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  background: #111111;
+  /* height: 1930px; */
+  /* background-image: url('/img/bgbody.jpg'); */
+}
+
+.bg-body {
+  background-image: url('/img/bgbody.jpg');
+  background-size: cover;
+  background-position: center;
+}

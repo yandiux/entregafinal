@@ -1,0 +1,53 @@
+.footer {
+  height: 162px;
+}
+
+.paginacion {
+  margin: 20px 0;
+}
+
+.ul__paginacion {
+  margin-top: 65px;
+}
+
+.paginacion ul {
+  list-style: none;
+  text-align: center;
+}
+
+.paginacion ul li {
+  display: inline-block;
+  margin-right: 27px;
+  font-size: 1.6rem;
+  font-weight: 400;
+}
+
+.paginacion ul li a {
+  display: block;
+  /* padding: 10px 20px; */
+  color: #fff;
+  /* background: #024959; */
+  text-decoration: none;
+}
+
+.paginacion ul li a:hover {
+  /* background: #037e8c; */
+  padding: 5px;
+  width: 3rem;
+  width: 3rem;
+  outline: 1px solid #dc56c5;
+  border-radius: 10px 0px;
+}
+
+/* .paginacion ul li .active {
+  background: #037e8c;
+  font-weight: bold;
+} */
+
+.footer__pie {
+  color: #fff;
+  margin-top: 65px;
+  text-align: center;
+  font-size: 1.6rem;
+  margin-bottom: 6rem;
+}
